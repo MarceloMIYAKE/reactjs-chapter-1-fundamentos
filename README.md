@@ -30,3 +30,10 @@
   ```
   mkdir src public
   ```
+### Configurando Babel
+- Babel
+  ```
+  yarn add @babel/core @babel/cli @babel/preset-env @babel/preset-react -D
+  ```
+- Criar `babel.config.js`
+- Teste: `yarn babel src/index.jsx --out-file dist/bundle.js`
