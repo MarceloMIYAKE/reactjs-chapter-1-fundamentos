@@ -1,0 +1,12 @@
+{
+  "name": "reactjs-ambiente",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MarceloMIYAKE/reactjs-ambiente.git",
+  "author": "Marcelo Masahiko Miyake <marcelo.m.miyake@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

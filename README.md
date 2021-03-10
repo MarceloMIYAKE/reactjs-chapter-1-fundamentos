@@ -13,3 +13,20 @@
   - `nvm use 14`
 - Yarn: https://yarnpkg.com/getting-started/install
   - `npm install --global yarn`
+### Criando estrutura do projeto
+- Inicialização do projeto
+  ```
+  yarn init -y
+  ```
+- React
+  ```
+  yarn add react
+  ```
+- ReactJS
+  ```
+  yarn add react-dom
+  ```
+- Diretórios `src` e `public`
+  ```
+  mkdir src public
+  ```
