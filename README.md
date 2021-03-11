@@ -47,3 +47,8 @@
   ```
   yarn add babel-loader -D
   ```
+### Servindo HTML estático
+- HTML Webpack Plugin
+  ```
+  yarn add html-webpack-plugin -D
+  ```
