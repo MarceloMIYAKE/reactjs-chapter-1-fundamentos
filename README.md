@@ -74,3 +74,12 @@
   ```
   yarn build
   ```
+### Importante arquivos CSS
+- Criar diretório `styles`
+  ```
+  mkdir src/styles
+  ```
+- Style loader & CSS loader
+  ```
+  yarn add style-loader css-loader -D
+  ```
